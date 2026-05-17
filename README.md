@@ -18,7 +18,7 @@ A Power BI dashboard was developed to support decision-making by presenting key 
 - Data Visualization  
 
 ## Dataset
-The dataset contains over 1 million records of airline operations, including:
+The dataset contains over 1 million records of airline operations from 2018, including:
 - Flight delays  
 - Cancellations  
 - Airports and routes  
